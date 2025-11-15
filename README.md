@@ -1,6 +1,6 @@
 A Startup project - Real code. Real experience.
 
-DevProof is a contributor-driven engineering platform where students and developers can build real production features, ship them live, and showcase verified contributions on their resumes and LinkedIn.
+DevProof is a contributor-driven engineering platform where students and developers can build real production features, ship them live on the platform, and showcase verified contributions on their resumes and LinkedIn.
 
 This platform is designed to give contributors:
 
